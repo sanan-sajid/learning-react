@@ -13,6 +13,7 @@ function CoreConcept(props) {
     </>
   );
 }
+
 export default function Header() {
   let temp = genRandomInt(2);
   return (
